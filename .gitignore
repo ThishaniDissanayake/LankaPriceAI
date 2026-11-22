@@ -1,0 +1,73 @@
+
+# =====================================
+# Python cache files
+# =====================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# =====================================
+# Virtual environments
+# =====================================
+venv/
+.venv/
+env/
+lanka_env/
+
+# =====================================
+# Jupyter Notebook temporary files
+# =====================================
+.ipynb_checkpoints/
+
+# =====================================
+# CatBoost temporary training files
+# =====================================
+catboost_info/
+
+# =====================================
+# Raw dataset files
+# Exclude if not required in GitHub
+# =====================================
+lankaprice_data/
+
+# =====================================
+# Environment variables and secrets
+# =====================================
+.env
+.env.*
+!.env.example
+
+# =====================================
+# Logs and temporary files
+# =====================================
+*.log
+*.tmp
+*.temp
+
+# =====================================
+# Operating system files
+# =====================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =====================================
+# IDE settings
+# =====================================
+.vscode/
+
+# =====================================
+# Build and distribution files
+# =====================================
+build/
+dist/
+*.egg-info/
+
+# =====================================
+# Keep required project files
+# =====================================
+!app.py
+!requirements.txt
+!README.md
+!LankaPrice_AI_Ensemble_Learning.ipynb
