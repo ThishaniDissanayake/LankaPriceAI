@@ -1,4 +1,4 @@
-# 🇱🇰 LankaPriceAI – Sri Lankan Rice Price Prediction
+# LankaPriceAI – Sri Lankan Rice Price Prediction
 
 ### Rice Price Analysis and Prediction Using Ensemble Learning
 
